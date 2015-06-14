@@ -1,0 +1,5 @@
+[user]
+	email = wlevine@gmail.com
+	name = Will Levine
+[core]
+	excludesfile = ~/.gitignore_global
