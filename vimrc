@@ -32,6 +32,9 @@ set autoindent
 "toggle paste/nopaste
 set pastetoggle=<F10>
 
+"highlight searches
+set hlsearch
+
 if has("autocmd")
   " Enable file type detection.
   " Use the default filetype settings, so that mail gets 'tw' set to 72,
